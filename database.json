@@ -1,0 +1,11 @@
+[
+  {
+    "username": "user1",
+    "password": "user1",
+    "connectedWallet": [
+      { "id": 12, "name": "OVO", "accessToken": "access-sandbox-fa9ba16a-c4cb-4325-86e7-feab1024fb2a" },
+      { "id": 11, "name": "GoPay", "accessToken": "access-sandbox-841653c1-19af-4323-a679-a9a2273b36aa" }
+    ]
+  },
+  { "username": "user2", "password": "user2", "connectedWallet": [{ "id": 12, "name": "OVO", "accessToken": "blomada" }] }
+]
